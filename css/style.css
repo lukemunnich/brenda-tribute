@@ -8,9 +8,16 @@ body {
   text-align: center;
   font: italic 200% fantasy;
  }
- p {
+ p1 {
   background-color: #FFFF33;
-  color: red;
-  text-align: left;
+  color: #FFFFFF;
+  text-align:left;
   border: 3px groove #FFFF33;
+ }
+ h2{background-color: #FFFF33;
+  color: #FFFFFF;
+  text-align:left;
+  border: 3px groove #FFFF33;
+ }
+
  }
