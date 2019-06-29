@@ -8,16 +8,16 @@ body {
   text-align: center;
   font: italic 200% fantasy;
  }
- p1 {
-  background-color: #FFFF33;
+ 
+  h2{background-color: #FFFF33;
   color: #FFFFFF;
   text-align:left;
   border: 3px groove #FFFF33;
- }
- h2{background-color: #FFFF33;
-  color: #FFFFFF;
-  text-align:left;
-  border: 3px groove #FFFF33;
- }
-
- }
+ 
+}
+div {
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
