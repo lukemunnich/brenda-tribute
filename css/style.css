@@ -1,4 +1,6 @@
 /* Style.css */
+
+
 body {
   background-color: #333300;
   color: #FFFFFF;
@@ -15,9 +17,4 @@ body {
   border: 3px groove #FFFF33;
  
 }
-div {
-  width: 300px;
-  border: 15px solid green;
-  padding: 50px;
-  margin: 20px;
-}
+
