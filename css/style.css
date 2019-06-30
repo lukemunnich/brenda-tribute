@@ -1,6 +1,7 @@
 /* Style.css */
 
-#more {background-color:rgba(207, 241, 126, 0.8);
+#more {
+  background-color:rgba(207, 241, 126, 0.8);
   display: none}
 
 body {background-image:url("../images/capetown.jpg");
@@ -60,8 +61,8 @@ body {background-image:url("../images/capetown.jpg");
   transition: .5s;
 }
 
-.box > span {
-  font-size: 3.8vh;
+.box > span {color:rgb(176, 243, 67);
+  font-size: 5.8vh;
   display: block;
   text-align: center;
   height: 10vh;
